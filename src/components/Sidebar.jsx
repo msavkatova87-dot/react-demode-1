@@ -120,7 +120,7 @@ export function SidebarWithBurgerMenu() {
                       <ListItemPrefix>
                         <ChevronRightIcon className="h-4 w-4 text-white" />
                       </ListItemPrefix>
-                      Add T-shirt
+                      Add Shirt
                     </ListItem>
                   </Link>
                 </List>
@@ -165,7 +165,7 @@ export function SidebarWithBurgerMenu() {
                       <ListItemPrefix>
                         <ChevronRightIcon className="h-4 w-4 text-white" />
                       </ListItemPrefix>
-                      T-shirt
+                      Shirt
                     </ListItem>
                   </Link>
                 </List>
